@@ -18,10 +18,10 @@ def using_first(array)
 end
 
 def using_last(array)
-  sports = ["Knicks","Nets","Falcons","Yankess"]
+  sports = 
   sports.last
 end
 
 def using_size(array)
-sports = 
+sports = ["wow", "I", "am", "really", "learning", "arrays!"]
 end 
