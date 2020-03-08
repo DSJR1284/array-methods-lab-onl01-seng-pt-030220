@@ -2,7 +2,7 @@ def using_include(array, element)
   array.include?(element)
 end
 
-def using_sort(sports)
+def using_sort(array, element)
   sports = ["Knicks","Nets","Falcons","Yankess"]
   sports.sort
 end
