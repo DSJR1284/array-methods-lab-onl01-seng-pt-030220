@@ -8,20 +8,21 @@ def using_sort(array, element)
 end
 
 def using_reverse(array)
-  sports = ["wow", "I", "am", "really", "learning", "arrays!"]
-  sports.reverse
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.reverse
 end
 
 def using_first(array)
-  sports = 
-  sports.first
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.first
 end
 
 def using_last(array)
-  sports = ["wow", "I", "am", "really", "learning", "arrays!"]
-  sports.last
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.last
 end
 
 def using_size(array)
-sports = ["wow", "I", "am", "really", "learning", "arrays!"]
+ array = ["wow", "I", "am", "really", "learning", "arrays!"]
+ array.size
 end 
