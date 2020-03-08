@@ -8,7 +8,7 @@ def using_sort(array, element)
 end
 
 def using_reverse(array)
-  sports = 
+  sports = ["wow", "I", "am", "really", "learning", "arrays!"]
   sports.reverse
 end
 
@@ -23,5 +23,5 @@ def using_last(array)
 end
 
 def using_size(array)
-sports = ["Knicks","Nets","Falcons","Yankess"]
+sports = 
 end 
