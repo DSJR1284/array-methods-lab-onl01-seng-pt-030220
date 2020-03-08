@@ -3,8 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array, element)
-  sports = ["Knicks","Nets","Falcons","Yankess"]
-  sports.sort
+  array = ["Knicks","Nets","Falcons","Yankess"]
+  array.sort(array)
 end
 
 def using_reverse(array)
