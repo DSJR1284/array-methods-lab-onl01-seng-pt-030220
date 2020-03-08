@@ -13,12 +13,12 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  sports = ["Knicks","Nets","Falcons","Yankess"]
+  sports = 
   sports.first
 end
 
 def using_last(array)
-  sports = 
+  sports = ["wow", "I", "am", "really", "learning", "arrays!"]
   sports.last
 end
 
